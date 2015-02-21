@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variel.Helpers", "Variel.Helpers\Variel.Helpers.csproj", "{C25BC726-8F12-442D-95CA-96B0DAF9BF7F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{793C455A-CAB2-42F4-97B9-2CD2D5E6A965}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet\Variel.Helpers.1.0.0.nupkg = NuGet\Variel.Helpers.1.0.0.nupkg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
